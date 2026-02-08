@@ -1,5 +1,5 @@
 {
-  "name": "puremd-mcp",
+  "name": "@iflow-mcp/puremd-puremd-mcp",
   "version": "1.0.3",
   "type": "module",
   "author": "pure.md (https://pure.md)",
@@ -7,7 +7,7 @@
   "license": "MIT",
   "main": "dist/index.js",
   "bin": {
-    "puremd-mcp": "dist/index.js"
+    "iflow-mcp-puremd-puremd-mcp": "dist/index.js"
   },
   "keywords": [
     "ai-search",
